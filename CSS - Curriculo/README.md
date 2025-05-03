@@ -1,3 +1,3 @@
-# Curriculo HTML|CSS
+# Curriculo CSS
 
-Currículo feito em HTML para disciplina de conding
+Currículo com HTML e CSS feito para disciplina de conding.
