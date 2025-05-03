@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/curriculo.css">
+    <title>Currículo</title>
+</head>
+
+<body class="contato">
+    <section id="formulario" class="contato mb-5">
+        <h2 class="contato">Fale Comigo</h2>
+        <form class="border border-warning p-4 rounded bg-dark text-warning">
+            <fieldset>
+                <div class="row mb-3">
+                    <div class="col">
+                        <label for="nome" class="form-label">Nome</label>
+                        <input type="text" id="nome" class="form-control" required>
+                    </div>
+                    <div class="col">
+                        <label for="sobrenome" class="form-label">Sobrenome</label>
+                        <input type="text" id="sobrenome" class="form-control" required>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="telefone" class="form-label">Telefone</label>
+                    <input type="tel" id="telefone" class="form-control" placeholder="(99) 99999-9999" required>
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" id="email" class="form-control" required>
+                </div>
+                <div class="mb-3">
+                    <label for="mensagem" class="form-label">Mensagem</label>
+                    <textarea id="mensagem" class="form-control" rows="4"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="lingua" class="form-label">Língua aplicada</label>
+                    <select id="lingua" class="form-select">
+                        <option>Português</option>
+                        <option>Inglês</option>
+                        <option>Espanhol</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="arquivo" class="form-label">Upload de protótipo (PDF, DOC, DOCX, JPEG ou PNG)</label>
+                    <input type="file" id="arquivo" class="form-control" accept=".pdf,.doc,.docx,.jpeg,.jpg,.png">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Linguagens</label>
+                    <select multiple class="form-select" size="3">
+                        <option>JavaScript</option>
+                        <option>Python</option>
+                        <option>Java</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Banco de dados recomendado</label><br>
+                    <input type="radio" name="bd" value="MySQL"> MySQL
+                    <input type="radio" name="bd" value="PostgreSQL"> PostgreSQL
+                    <input type="radio" name="bd" value="MongoDB"> MongoDB
+                </div>
+                <div class="mb-3">
+                    <label for="turno" class="form-label">Turno de preferência para reuniões</label>
+                    <select id="turno" class="form-select">
+                        <option>Manhã</option>
+                        <option>Tarde</option>
+                        <option>Noite</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="horario" class="form-label">Melhor horário sugerido</label>
+                    <input type="time" id="horario" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label for="data" class="form-label">Previsão de entrega desejada</label>
+                    <input type="date" id="data" class="form-control">
+                </div>
+                <button type="reset" class="btn btn-secondary text-dark" >Limpar</button>
+                <button type="submit" class="btn btn-warning text-dark" >Enviar</button>
+            </fieldset>
+        </form>
+    </section>
+
+    <div class="contato">
+        <h2 class="contato">Meu Endereço</h2>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.5913936770608!2d-34.959097788587876!3d-8.040992891952603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab1bda1baaffad%3A0x8a67500e211da3a5!2sR.%20Primeiro%20de%20Maio%20-%20V%C3%A1rzea%2C%20Recife%20-%20PE%2C%2051345-100!5e0!3m2!1spt-PT!2sbr!4v1743599286001!5m2!1spt-PT!2sbr" 
+        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
