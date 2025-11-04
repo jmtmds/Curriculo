@@ -1,6 +1,6 @@
 # Currículo - Versão HTML Puro
 
-![Status](https://img.shields.io/badge/status-concluído-blue)
+![Status](https://img.shields.io/badge/status-concluído-green)
 ![Linguagem](https://img.shields.io/badge/linguagem-HTML5-orange.svg)
 
 **Disciplina:** `Coding`

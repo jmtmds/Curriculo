@@ -1,6 +1,6 @@
 # Meu Currículo (React Native)
 
-![Status](https://img.shields.io/badge/status-concluído-blue)
+![Status](https://img.shields.io/badge/status-concluído-green)
 ![Linguagem](https://img.shields.io/badge/linguagem-JavaScript-blue.svg)
 
 **Disciplina:** `Coding Mobile`
