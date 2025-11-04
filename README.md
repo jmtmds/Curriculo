@@ -22,7 +22,7 @@ Este repositório está organizado da seguinte forma:
     * **Descrição:** A segunda versão, evoluindo o projeto anterior com a adição de **CSS** para estilização avançada e o uso do framework Bootstrap.
     * **Disciplina:** `Coding`
 
-3.  **[ReacttiveCurriculo](./ReacttiveCurriculo/)**
+3.  **[React Native - Curriculo](./ReactNative%20-%20Curriculo/)**
     * **Descrição:** A versão mais recente, recriada como um **aplicativo mobile multiplataforma** (iOS/Android/Web) usando **React Native** e **Expo**.
     * **Disciplina:** `Coding Mobile`.
 
@@ -33,4 +33,3 @@ Este repositório está organizado da seguinte forma:
 **João Marcos Tavares**
 * **LinkedIn:** [linkedin.com/in/jmtmds](https://www.linkedin.com/in/jmtmds)
 * **Email:** [jm3tavares@gmail.com](mailto:jm3tavares@gmail.com)
-* **GitHub:** [github.com/jmtmds](https://github.com/jmtmds)
