@@ -1,6 +1,6 @@
 # Meu Currículo (React Native)
 
-![Status](https://img.shields.io/badge/status-em%20andamento-green)
+![Status](https://img.shields.io/badge/status-concluído-blue)
 ![Linguagem](https://img.shields.io/badge/linguagem-JavaScript-blue.svg)
 
 **Disciplina:** `Coding Mobile`
@@ -21,14 +21,14 @@ As principais tecnologias utilizadas neste projeto são:
 
 ## 💻 Como Executar
 
-1.  **Clone o repositório (use o seu usuário e nome do repo):**
+1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/jmtmds/CURRICULO.git](https://github.com/jmtmds/CURRICULO.git)
+    git clone https://github.com/jmtmds/Curriculo.git
     ```
 
 2.  **Entre na pasta do projeto React Native:**
     ```bash
-    cd CURRICULO/ReacttiveCurriculo
+    cd CURRICULO/ReactNative - Curriculo
     ```
 
 3.  **Instale as dependências:**
@@ -51,4 +51,3 @@ As principais tecnologias utilizadas neste projeto são:
 
 * **LinkedIn:** [linkedin.com/in/jmtmds](https://www.linkedin.com/in/jmtmds)
 * **Email:** [jm3tavares@gmail.com](mailto:jm3tavares@gmail.com)
-* **GitHub:** [github.com/jmtmds](https://github.com/jmtmds)
