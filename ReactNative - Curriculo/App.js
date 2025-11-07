@@ -150,7 +150,7 @@ const App = () => {
             <Text style={styles.skillText}>• <Text style={styles.skillCategory}>Linguagens:</Text> JavaScript, React, HTML, CSS, Git</Text>
             <Text style={styles.skillText}>• <Text style={styles.skillCategory}>Banco de dados:</Text> SQL</Text>
             <Text style={styles.skillText}>• <Text style={styles.skillCategory}>Metodologias:</Text> Metodologias Ágeis (Scrum), Design Thinking, UI/UX Design</Text>
-            <Text style={styles.skillText}>• <Text style={styles.skillCategory}>Ferramentas:</Text> Lua, VS Code, Figma, Miro, GitHub</Text>
+            <Text style={styles.skillText}>• <Text style={styles.skillCategory}>Ferramentas:</Text> VS Code, Eclipse, Figma, Miro, GitHub</Text>
             <Text style={styles.skillText}>• <Text style={styles.skillCategory}>Cursando:</Text> Java, Typescript, ReactNative</Text>
           </Section>
 
